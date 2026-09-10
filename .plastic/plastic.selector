@@ -1,4 +1,0 @@
-repository "Paws & Claws the great (Alien) Cat Race!/Paws & Claws the great (Alien) Cat Race!@18968073030456@cloud"
-  path "/"
-    br "/main"
-    co "/main"
